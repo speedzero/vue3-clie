@@ -1,4 +1,5 @@
 # vue3-micro-template
+vue3自用脚手架
 
 #### src 目录详解
 
